@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">True False Quiz</string>
+    <string name="text_true">True</string>
+    <string name="text_false">False</string>
+    <string name="next"><![CDATA[Next >]]></string>
+    <string name="question_animal">Cats are animals.</string>
+    <string name="question_harrison">Harrison is a notebook.</string>
+    <string name="question_cross">Josh runs for the cross country team.</string>
+    <string name="question_hate">All dogs hate cats</string>
+</resources>
